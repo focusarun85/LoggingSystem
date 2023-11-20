@@ -1,0 +1,5 @@
+[11/19/2023 1:00:01 PM] Hello world
+[Information][11/19/2023 1:00:02 PM] Hello world
+[Debug][11/19/2023 1:00:02 PM] Hello world
+[Error][11/19/2023 1:00:03 PM] Hello world
+[Fatal][11/19/2023 1:00:04 PM] Hello world
